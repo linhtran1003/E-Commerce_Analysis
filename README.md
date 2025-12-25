@@ -37,9 +37,14 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### Product Performance by Year
 
+- main drivers to the sales as well as the dip - investigating the cause of the dip: region and marketing 
+- product with lowest performance - contribute how much to the sale?
+
 ### Market Share by Region
 
 ### 📈 Marketing Channels Effectiveness
+
+- direct is the main driver of all sales about 70 to more than 80% contribution across 2 years, while all other methods are pale in comparison - which is unusual and suggests that marketing strategies are uneffective. However, it's important to double check with related team that the attribution is correct
 
 ### Product x Marketing Interaction
 
@@ -51,12 +56,17 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 <h2 align="center"> Recommendations </h2>
 
+- discontinue the product with low performance
+- improving marketing strategies on email, social media, and affeliate to avoid over-reliance on the direct channel. Email shows a potential improve so this can be a method that marketing team can focus on while social media and affeliate show much lower contribution, I think that these 2 channels are also potential since as a customer I found myself most of the time discovering products through these 2 channels.
+- focusing on enhancing promotions and marketing strategies in region that shows strong performance or one that makes progress
+
 <h2 align="center"> Limitations & Potential Improvements </h2>
 
 **Limitations:**
 
 - Marketing spending data is not available (ROI analysis not possible)
 - Cost data is not avaialble to evaluate profit
+- Lack real-time feedback and guidance from stakeholders to provide clearer insights and recommendations
 
 **Future Works:**
 
