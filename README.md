@@ -2,16 +2,24 @@
 
 <h2 align="center"> Overview </h2>
 
-This project analyzes ecommerce transaction data during 2-year period (2019 - 2020) to understand sales trends, product performance across different regions, as well as marketing effectiveness. The goal is to identify key revenue drivers, growth opportunities, shifts in customer purchasing behavior over time, and solutions and advices to related team to enhance the company's commercial performance. The key insights and recommendations focus on the following area:
+This report represents an in-depth analysis of a global e-commerce businesss specializing in popular gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021.
+
+The analysis will primarily focus on the 2019 - 2020 period to providing a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
+
+The key insights and recommendations of this analysis are structured around the following areas:
+
+- General Sales Trends:
+  - Analyze overall performance using key metrics such as total revenue, order volume, and average order value (AOV) to understand demand patterns and year-over-year changes.
+- Product Performance:
+  - Identify top products that contribute the most to the total revenue and assess their relative impacts on the overall performance of the business.
+- Market Share by Region:
+  - Evaluate regional contributions to sales, highlighting core revenue-driving markets as well as underperforming regions but show potential investment opportunities.
+- Marketing Channels Effectiveness:
+  - Evaluate the effectiveness of the business's marketing strategies by analyzing customer acquisition across different channels and identifying which channels contribute most to sales.
 
 **Research Question:**
 
 How do sales performance and marketing effectiveness vary by year, product, region, and channel, and what factors drive changes in revenue and order volume over time?
-
-- Sales Trends:
-  - Product performance:
-  - Regional performance:
-- Marketing performance:
 
 <h2 align="center"> Data Overview </h2>
 
@@ -71,7 +79,7 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### Average Order Value (AOV) and Number of Orders
 
-- AOV showed considerable fluctuation over the analyzed period, with lowest level in January 2019 (~$214) and reached its highest level in December 2020 (~$329).
+- AOV showed considerable fluctuation over the analyzed period, with lowest level in January 2019 (~$214) and reached its highest level in December 2020 ($329)
 - There was a sharp increase in early 2020 (+36% in January), aligning with the outbreak of COVID-19 which might affect the ecommerce market, however it did not consistently translate into higher revenue but instead followed by continuous instability the following period.
 - Analysis indicates that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
 
