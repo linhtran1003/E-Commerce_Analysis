@@ -1,10 +1,12 @@
-# E-Commerce_Analysis
+<div align="center" style="border-bottom: none; padding-bottom: 0;">
+  <h1 style="border: none; padding: 0; margin: 0;">
+    E-Commerce Sales and Marketing Performance Analysis
+  </h1>
+</div>
 
 <h2 align="center"> Overview </h2>
 
-This report represents an in-depth analysis of a global e-commerce businesss specializing in popular gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021.
-
-The analysis will primarily focus on the 2019 - 2020 period to providing a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
+This report represents an in-depth analysis of a global e-commerce businesss specializing in popular gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021. The analysis will primarily focus on the 2019 - 2020 period to providing a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
 
 The key insights and recommendations of this analysis are structured around the following areas:
 
@@ -73,27 +75,38 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### 💰 Sales Trends
 
-- Sales revenue increased sharply in early 2020, with April 2020 recording over 220% growth compared to January 2020 (from $109K to $351K), and nearly 190% growth compared to April 2019, highlighting a major sale anomaly in just 1 year.
-- Despite this surge, monthly sales patterns reveal strong volatility, with recurring declines before and after seasonal peaks.
-- The sharp revenue drop observed in January 2021 (~47%), followed by further decline in February, suggests potential demand saturation or weakening consumer engagement entering 2021.
+- In 2019, monthly sales remained relatively stable throughout the year, with the strongest performance occurring during September - December period, which generated approximately $637K of the $1.54M annual revenue (around 42% of total sales)
+- Despite this strong accomplishment at the end of the year, sales experience a sharp 39% decline in January 2020, indicating a significant post-holiday slowdown and an early sign of volatility entering the new year.
+- Sales revenue rebounded rapidly in the next few months of 2020. By April 2020, revenue increased by over 220% compared to January 2020 (from $109K to $351K) and nearly 190% compared to April 2019, indicating a pronounced year-over-year surge and a clear deviation from prior patterns.
+- Despite this surge, monthly sales patterns reveal strong month-to-month volatility, with recurring declines before and after seasonal peaks. This pattern highlights that customer demand was heavily concentrated around specific promotional or holiday-driven periods rathern than sustained throughout the year.
+- Entering 2021, the revenue sharply declined again, with a 47% drop in January, followed by further decline in February, suggests potential demand saturation or weakening consumer engagement.
+- **Overall:** Although the difference in total revenue of the 2 seasons are susbtantial, sales followed a consistent seasonal pattern: peak in September and December, followed by decline in adjacent months. This essentially indicates that revenue performance is heavily dependent on late-year seasonal events and promotions, reinforcing the need for adjusting strategies that stabilize general demand outside peak periods.
 
-### Average Order Value (AOV) and Number of Orders
+### 📊 Average Order Value (AOV) and Number of Orders
 
-- AOV showed considerable fluctuation over the analyzed period, with lowest level in January 2019 (~$214) and reached its highest level in December 2020 ($329)
-- There was a sharp increase in early 2020 (+36% in January), aligning with the outbreak of COVID-19 which might affect the ecommerce market, however it did not consistently translate into higher revenue but instead followed by continuous instability the following period.
-- Analysis indicates that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
+- In 2020, Average Order Value (AOV) increased significantly compared to the previous year, with a notable 36% spike in January 2020. This increase coincided with the outbreak of COVID-19, which likely influenced changes in consumer purchasing behavior within the e-commerce market.
+- However, higher AOV did not consistently translate into higher revenue. In fact, revenue in January 2020 reach one of its lowest level across the analyzed period, indicating that increasing the AOV alone was insufficient to complement the declines in customer demand.
+- Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
+  - In January 2020, the number of orders declined by approxiamtely 55%, directly leading to the sharp revenue drop despite having high AOV.
+  - Order volume recovered throughout 2020 and peaked in December with 1,671 orders, but also experienced notable declines in October 2020 and again in early 2021.
+- **Overall:** While AOV exhibited considerable volatility over the analyzed period, order volume was more likely the main driver of the revenue. This emphasizes the importance of sustaining the consistent demand rather than solely focus on short-term increases in order value.
 
-### Product Performance by Year
+### 🎮 Product Performance by Year
 
-- Revenue concentration is extreme: four products—Gaming Monitor, Nintendo Switch, PlayStation, and Ideapad Gaming - account for approximately 97% of total revenue across both years.
+- Revenue concentration is extreme: four products - Gaming Monitor, Nintendo Switch, PlayStation, and Ideapad Gaming - account for approximately 97% of total revenue across both years.
 - Several products show minimal or inconsistent sales activity, contributing negligibly to overall performance.
 - The Gaming Headset exhibited persistently weak performance, with no recorded sales in multiple months, indicating poor product-market fit, ineffective promotion, or missing sales data.
 - products aov:
 
-### Market Share by Region
+### 🌐 Market Share by Region
 
-- North America dominates sales, contributing over 50% of total revenue in both years, while Latin America consistently contributes the smallest share (~5%), indicating limited market penetration.
-- All regions experienced similar sales patterns - sharp decline in early 2020 followed by strong recovery - supporting the presence of a global demand shock, which potentially caused by the outbreak of COVID-19 pandemic.
+- North America consistently dominates revenue, contributing over 50% of total sales in both years. In contrast, Latin America accounts for the smalles sphare (approximately 5%), indicating limited market penetration and relatively low impact on overall performance.
+- 2019:
+  - In early 2019, regional sales trends diverged. North America and EMEA followed similar patterns, both experiencing a noticeable decline in February, while Asia-Pacific and Latin America showed relatively steady growth during the same period, despite their smaller revenue contributions.
+  - Later in 2019, sales patterns converged across North America, EMEA, and Asia-Pacific, with all three regions peaking in September followed by a significant decline toward November and December.
+
+In later 2019, North America, EMEA, and Asia-Pacific saw the common in the sales trends as they all peaked in September then experienced major dip in November/ December, suggesting a global event that might affect multiple regions. However, revenue in Latin America is somehow not affected and remained pretty stable during the same period.
+- Moving to 2020, all regions now shared the same patterns - sharp decline in early 2020 then followed by strong recovery with peak performance mostly in September and December but also came with fluctuation in later of 2020 - supporting the presence of a global demand shock, which potentially caused by the outbreak of COVID-19 pandemic. 
 - While most regions showed improvement toward the end of 2020, Asia-Pacific was the only region exhibiting continued growth in early 2021. This pattern combined with a slight shift in the market share in 2020 highlights a potential emerging opportunity.
 
 ### 📈 Marketing Channels Effectiveness
