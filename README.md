@@ -100,9 +100,12 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### 🌐 Market Share by Region
 
-- North America consistently dominates revenue, contributing over 50% of total sales in both years. In contrast, Latin America accounts for the smalles sphare (approximately 5%), indicating limited market penetration and relatively low impact on overall performance.
-- 2019:
-  - In early 2019, regional sales trends diverged. North America and EMEA followed similar patterns, both experiencing a noticeable decline in February, while Asia-Pacific and Latin America showed relatively steady growth during the same period, despite their smaller revenue contributions.
+- North America consistently dominates revenue:
+  - It accounts for over 50% of total sales in both year and serves as the primary revenue driver across all products.
+  - Revenue in this region increased from $832.7K in 2019 to $2.12M in 2020, representing a 155% year-over-year (YoY) growth, reinforcing North America's central role in overall business performance, but also highlighting the risk of over-reliance on a specific region.
+- In contrast, Latin America accounts for the smalles sphare (approximately 5%), indicating limited market penetration and relatively low impact on overall performance.
+- Regional sales trends differed between ealy 2019 and later in 2019:
+  - In early 2019, North America and EMEA followed similar patterns, both experiencing a noticeable decline in February, while Asia-Pacific and Latin America showed relatively steady growth during the same period, despite their smaller revenue contributions.
   - Later in 2019, sales patterns converged across North America, EMEA, and Asia-Pacific, with all three regions peaking in September followed by a significant decline toward November and December, suggesting a global or cross-regional factor that might affect customer demand. Notably, Latin America remained relatively stable during this period, showing less sensitivity to the same demand shifts.
 - In 2020, all regions exhibited highly aligned sales behavior. Each experienced with a sharp decline in early 2020, followed by a strong recovery and peak performance primarily in September and December, although with increased volatility in the latter half of the year. This consistent pattern across regions supports the presence of a global demand shock, likely associated with the COVID-19 pandemic.
 - **Overall:** While most regions showed improvement toward the end of 2020, Asia-Pacific was the only region to maintain continued growth into early 2021. Combine with a slight increase in its market share in 2020, this trend highlights Asia-Pacific as a potential emerging growth opportunity. 
