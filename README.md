@@ -112,24 +112,26 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### 📈 Marketing Channels Effectiveness
 
-- Direct purchases account for the vast majority of revenue (70–80%), while all other channels contribute marginally.
-- This heavy reliance on direct traffic is atypical for mature e-commerce operations and suggests underutilization or inefficiency in marketing strategies.
-- Email shows modest growth potential, while social media and affiliate channels appear underdeveloped rather than ineffective, indicating opportunities for strategic experimentation and optimization.
+- Direct purchases aoverwhelmingly dominates the revenue, contributing approximately 79 - 89% of monthly sales and 84 - 85% annually, while all other marketing channels contribute marginally by comparison. Trends in direct-channel revenue closely mirror the trends of overall sales and order volume, indicating a strong dependence on customers who are already familiar with the brand and navigate directly to the website to complete their purchases.
+- This level of reliance on direct traffic is unusual for a typical e-commerce operation and suggests that customer acquisition through alternative marketing channels is either underutilized or ineffective. This disproportionate contribution from direct traffic also warrants a review of marketing attribution logic, as the observed imbalance may reflect limitations in channel tracking rather than true customer acquisiton behavior.
+- Among non-direct channels, email shows modest growth potential, indicating opportunities for strategic experimentation and optimization to shift away the revenue concentration on direct traffic.
 
 <h2 align="center"> Conclusion </h2>
 
 ### Key Takeaways
 
-- Revenue growth in 2020 was driven primarily by increased order volume, not sustained improvements in AOV.
-- Sales performance is highly dependent on a narrow set of products, increasing exposure to product-level risk.
+- Revenue growth in 2020 was strong but volatile, driven primarily by seasonal demand spikes rather than sustained month-to-month growth. Sales consistently peaked in September and December, followed by sharp declines before and after these periods.
+- Order volume rather than AOV is the primary driver of revenue performance. Although AVOV increased at several points, declines in orders count directly led to revenue downturns, indicating that demand consistency is more critical than basket size.
+- Revenue is highly concentrated across products and regions. A small number of core products generate the majority of sales, and North America accounts more than half of total revenue in both years, making overall performance is highly sensitive to these segments.
+- Regional sales trends are highly synchronized, especially in 2020, suggesting the influence of a global demand shock. However, Asia-Pacific stands out as the only region showing continued growth into early 2021, indicating emerging potential investment.
 - Regional demand patterns suggest both mature markets and emerging growth opportunities.
-- Marketing performance is constrained by over-reliance on direct traffic and limited channel diversification.
+- Marketing performance is heavily skewed toward direct traffic while other acquisition channels play minimal roles, highlighting an imbalanced marketing mix. 
 
 ### Business Implications
 
-- Sustainable growth requires balancing volume growth, product diversification, and channel optimization.
-- Improving demand generation through diversified marketing channels is critical to reducing revenue volatility.
-- Strategic focus should shift from short-term revenue spikes to stable, repeatable growth drivers.
+- The business's current model is highly dependent on seasonality, direct traffic, and a narrow set of products and regions, creating structural risks if customer demand patterns shift.
+- Heavy reliance on direct traffic limits the company's ability to scale efficiently and might indicate weaknesses in marketing attribution, channels diversification, and customer acquisition strategies.
+- Emerging growth signals in Asia-Pacific suggests that geographic diversification could reduce dependency on mature markets and build long-term resilience.
 
 <h2 align="center"> Recommendations </h2>
 
