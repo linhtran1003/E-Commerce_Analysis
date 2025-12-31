@@ -96,12 +96,13 @@ This analysis reveals several key patterns in sales and marketing performance:
 - **Revenue concentration:**
   - Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. This indicates a strong demand for a narrow set of core products, while also exposing the business to significant concentration risk.
   - All remaining products show minimal or inconsistent sales activity, contributing negligibly to overall performance. Notably, the Gaming Headset exhibited persistently weak performance with no recorded sales in multiple months. This may reflect poor product-market fit, ineffective promotions, or potential gaps in sales tracking, and requires further investigation.
-
-
-- All top-performing products consistently spike in September and December, likely due to back to school promotions and holiday shopping events. 
-- Product AOV:
-  - In 2019, Playstation and IdeaPad AOV fluctuated while AOV of nintendo switch and gaming monitor remained stable in both years. Moving to 2020, although AOV of playstation and ideapad became steadier, they still witnessed highs and lows.
-  - Sony Playstation has the highest AOV while gaming monitor has relatively low AOV. In 2019, despite having the lowest AOV in the top 4 products, gaming monitor and nintendo switch contribute the most to the annual sales with $1.06M. Sony Playstation, despite its high price, experienced the greatest growth from from $260K in 2019 but jump to $1.19M in 2020, while the gaming monitor remained as the top 1 revenue driver in both years. This highlights a key point is that although not having high AOV, gaming monitor remained as the main revenue driver in both years, suggesting that the orders count of this product also remained stable, this further proves that consistent order frequency is more critical than the AOV alone.
+  - Seasonality is consistent across all top-performing products, with pronounced sales spikes in September and December. These peaks aligned with back-to-school promotion and holiday shopping periods, reinforcing the importance of seasonal demand in driving overall performance.
+ 
+- **Product AOV:**
+  - Product-level AOV patterns vary across years. In 2019, AOV for Playstation and IdeaPad Gaming fluctuated considerably, while Nintendo Switch and Gaming Monitor maintained relatively stable AOV levels in both years. In 2020, AOV for Playstation and IdeaPad became more stable overall, though intermittent highs and lows persisted.
+  - Sony Playstation consistently records the highest AOV, while the Gaming Monitor has a comparatively lower AOV among the top products. Despite this, the Gaming Monitor and Nintendo Switch jointly generated approximately $1.06M in revenue in 2019, demonstrating strong demand volume.
+  - Sony Playstation, despite being a high-value item, experienced the most significant revenue growth, increasing from $260K in 2019 to $1.19M in 2020. However, the Gaming Monitor remained the top revenue driver in both years, despite its lower AOV
+  - **Overall:** This contrast highlights a key insight: consistent order volume is more critical to sustained revenue performance than high AOV alone. The Gaming Monitor’s stable revenue leadership suggests that frequent purchasing can outperform higher-priced but less consistently ordered products.
 
 ### 🌐 Market Share by Region
 
