@@ -135,10 +135,24 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 <h2 align="center"> Recommendations </h2>
 
-- Rationalize the product portfolio by discontinuing or repositioning persistently underperforming products.
-- Reduce over-reliance on direct traffic by strengthening email, social media, and affiliate strategies through targeted campaigns and experimentation. Email shows a potential improve so this can be a method that marketing team can focus on. Although social media and affeliate show much lower contribution, I think that these 2 channels are also potential since as a customer I found myself most of the time discovering products through these 2 channels.
-- Double down on high-performing regions while investing selectively in regions showing emerging growth, particularly Asia-Pacific.
-- Align promotional strategies more closely with proven seasonal demand patterns while mitigating recurring low-performance periods (e.g., October).
+**1. Stabilize Demand Outside Peak Seasons:**
+  - Develop campaigns and promotions targeting historically weak months (Januay & October)
+  - Introduce initiatives such as bundled offers or limited-time incentives to boost customer demands
+
+**2. Prioritize Consistent Demand Growth:**
+  - Focus marketing and product strategies on increasing purchase frequency instead of solely relying on higher AOV
+  - Optimize conversion funnel and adjust pricing strategies if needed to encourage consistent purchase behavior
+
+**3. Reduce Revenue Concentration Risks:** 
+  - Reassess underperforming products and consider discontinuation or repositioning
+  - Research and explore opportunities to expand beyondd top-performing products
+
+**4. Diversify Marketing Channels:**
+  - Expand and optimize email marketing, which shows potential growth
+  - Experiment with social media and affeliate strategies to improve customer discovery as these 2 channels might help reach a broader group of customers.
+
+**5. Invest in Potential Regions:**
+  - Use regional insights to guide expansion and localization strategies
 
 <h2 align="center"> Limitations & Potential Improvements </h2>
 
