@@ -93,10 +93,15 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### 🎮 Product Performance by Year
 
-- Revenue concentration is extreme: four products - Gaming Monitor, Nintendo Switch, PlayStation, and Ideapad Gaming - account for approximately 97% of total revenue across both years.
-- Several products show minimal or inconsistent sales activity, contributing negligibly to overall performance.
-- The Gaming Headset exhibited persistently weak performance, with no recorded sales in multiple months, indicating poor product-market fit, ineffective promotion, or missing sales data.
-- products aov:
+- **Revenue concentration:**
+  - Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. This indicates a strong demand for a narrow set of core products, while also exposing the business to significant concentration risk.
+  - All remaining products show minimal or inconsistent sales activity, contributing negligibly to overall performance. Notably, the Gaming Headset exhibited persistently weak performance with no recorded sales in multiple months. This may reflect poor product-market fit, ineffective promotions, or potential gaps in sales tracking, and requires further investigation.
+
+
+- All top-performing products consistently spike in September and December, likely due to back to school promotions and holiday shopping events. 
+- Product AOV:
+  - In 2019, Playstation and IdeaPad AOV fluctuated while AOV of nintendo switch and gaming monitor remained stable in both years. Moving to 2020, although AOV of playstation and ideapad became steadier, they still witnessed highs and lows.
+  - Sony Playstation has the highest AOV while gaming monitor has relatively low AOV. In 2019, despite having the lowest AOV in the top 4 products, gaming monitor and nintendo switch contribute the most to the annual sales with $1.06M. Sony Playstation, despite its high price, experienced the greatest growth from from $260K in 2019 but jump to $1.19M in 2020, while the gaming monitor remained as the top 1 revenue driver in both years. This highlights a key point is that although not having high AOV, gaming monitor remained as the main revenue driver in both years, suggesting that the orders count of this product also remained stable, this further proves that consistent order frequency is more critical than the AOV alone.
 
 ### 🌐 Market Share by Region
 
