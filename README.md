@@ -168,7 +168,7 @@ This analysis reveals several key patterns in sales and marketing performance:
 - Cost data is not avaialble to evaluate profit
 - Lack real-time feedback and guidance from stakeholders to provide clearer insights and recommendations
 
-**Future Works:**
+**Future Improvements:**
 
 - Integrating marketing cost to evaluate ROI
 - Performing customer cohort and retention analysis
