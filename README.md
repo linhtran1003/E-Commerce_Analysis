@@ -76,7 +76,7 @@ This analysis reveals several key patterns in sales and marketing performance:
 ### 💰 Sales Trends
 
 - In 2019, monthly sales remained relatively stable throughout the year, with the strongest performance occurring during September - December period, which generated approximately $637K of the $1.54M annual revenue (around 42% of total sales)
-- Despite this strong accomplishment at the end of the year, sales experience a sharp 39% decline in January 2020, indicating a significant post-holiday slowdown and an early sign of volatility entering the new year.
+- Despite this strong accomplishment at the end of the year, sales experience a sharp 39% decline in January 2020 (from $180.8K to $109.9K), indicating a significant post-holiday slowdown and an early sign of volatility entering the new year.
 - Sales revenue rebounded rapidly in the next few months of 2020. By April 2020, revenue increased by over 220% compared to January 2020 (from $109K to $351K) and nearly 190% compared to April 2019, indicating a pronounced year-over-year surge and a clear deviation from prior patterns.
 - Despite this surge, monthly sales patterns reveal strong month-to-month volatility, with recurring declines before and after seasonal peaks. This pattern highlights that customer demand was heavily concentrated around specific promotional or holiday-driven periods rathern than sustained throughout the year.
 - Entering 2021, the revenue sharply declined again, with a 47% drop in January, followed by further decline in February, suggests potential demand saturation or weakening consumer engagement.
@@ -101,7 +101,7 @@ This analysis reveals several key patterns in sales and marketing performance:
 - **Product AOV:**
   - Product-level AOV patterns vary across years. In 2019, AOV for Playstation and IdeaPad Gaming fluctuated considerably, while Nintendo Switch and Gaming Monitor maintained relatively stable AOV levels in both years. In 2020, AOV for Playstation and IdeaPad became more stable overall, though intermittent highs and lows persisted.
   - Sony Playstation consistently records the highest AOV, while the Gaming Monitor has a comparatively lower AOV among the top products. Despite this, the Gaming Monitor and Nintendo Switch jointly generated approximately $1.06M in revenue in 2019, demonstrating strong demand volume.
-  - Sony Playstation, despite being a high-value item, experienced the most significant revenue growth, increasing from $260K in 2019 to $1.19M in 2020. However, the Gaming Monitor remained the top revenue driver in both years, despite its lower AOV
+  - Sony Playstation, despite being a high-value item, experienced the most significant revenue growth, increasing from $260K in 2019 to $1.19M in 2020. However, the Gaming Monitor remained the top revenue driver in both years, despite its lower AOV.
   - **Overall:** This contrast highlights a key insight: consistent order volume is more critical to sustained revenue performance than high AOV alone. The Gaming Monitor’s stable revenue leadership suggests that frequent purchasing can outperform higher-priced but less consistently ordered products.
 
 ### 🌐 Market Share by Region
