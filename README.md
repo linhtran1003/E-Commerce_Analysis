@@ -84,6 +84,7 @@ This analysis reveals several key patterns in sales and marketing performance:
 - **Overall:** Although the difference in total revenue of the 2 seasons are susbtantial, sales followed a consistent seasonal pattern: peak in September and December, followed by decline in adjacent months. This essentially indicates that revenue performance is heavily dependent on late-year seasonal events and promotions, reinforcing the need for adjusting strategies that stabilize general demand outside peak periods.
 
 ### 📊 Average Order Value (AOV) and Number of Orders
+<h4 align="center">Revenue fluctuations are driven primarily by changes in order volume</h4>
 
 <table align="center">
     <tr align="center">
@@ -95,7 +96,7 @@ This analysis reveals several key patterns in sales and marketing performance:
       </td>
     </tr>
 </table>
-<p align="center">Revenue fluctuations are driven primarily by changes in order volume</p>
+
 - In 2020, Average Order Value (AOV) increased significantly compared to the previous year, with a notable 36% spike in January 2020. This increase coincided with the outbreak of COVID-19, which likely influenced changes in consumer purchasing behavior within the e-commerce market.
 - However, higher AOV did not consistently translate into higher revenue. In fact, revenue in January 2020 reach one of its lowest level across the analyzed period, indicating that increasing the AOV alone was insufficient to complement the declines in customer demand.
 - Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
