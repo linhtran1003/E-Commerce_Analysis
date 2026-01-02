@@ -85,6 +85,17 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### 📊 Average Order Value (AOV) and Number of Orders
 
+<table align="center">
+    <tr align="center">
+      <td width="1000" valign="top">
+        <img src="./figures/aov">
+      </td>
+      <td width="1000">
+        <img src="./figures/orders_count">
+      </td>
+    </tr>
+</table>
+
 - In 2020, Average Order Value (AOV) increased significantly compared to the previous year, with a notable 36% spike in January 2020. This increase coincided with the outbreak of COVID-19, which likely influenced changes in consumer purchasing behavior within the e-commerce market.
 - However, higher AOV did not consistently translate into higher revenue. In fact, revenue in January 2020 reach one of its lowest level across the analyzed period, indicating that increasing the AOV alone was insufficient to complement the declines in customer demand.
 - Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
@@ -93,6 +104,8 @@ This analysis reveals several key patterns in sales and marketing performance:
 - **Overall:** While AOV exhibited considerable volatility over the analyzed period, order volume was more likely the main driver of the revenue. This emphasizes the importance of sustaining the consistent demand rather than solely focus on short-term increases in order value.
 
 ### 🎮 Product Performance by Year
+
+![Sales Trends](./figures/product_performance.png)
 
 - **Revenue concentration:**
   - Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. This indicates a strong demand for a narrow set of core products, while also exposing the business to significant concentration risk.
