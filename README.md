@@ -87,10 +87,10 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 <table align="center">
     <tr align="center">
-      <td width="1000" valign="top">
+      <td>
         <img src="./figures/aov.png">
       </td>
-      <td width="1000">
+      <td>
         <img src="./figures/orders_count.png">
       </td>
     </tr>
