@@ -6,22 +6,40 @@
 
 <h2 align="center"> Overview </h2>
 
-This report represents an in-depth analysis of a global e-commerce businesss specializing in popular gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021. The analysis will primarily focus on the 2019 - 2020 period to providing a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
+<p>
+  This report represents an in-depth analysis of a global e-commerce businesss specializing in popular gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021. The analysis will primarily focus on the 2019 - 2020 period to providing a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
+</p>
 
-The key insights and recommendations of this analysis are structured around the following areas:
+<p>The key insights and recommendations of this analysis are structured around the following areas:</p>
 
-- General Sales Trends:
-  - Analyze overall performance using key metrics such as total revenue, order volume, and average order value (AOV) to understand demand patterns and year-over-year changes.
-- Product Performance:
-  - Identify top products that contribute the most to the total revenue and assess their relative impacts on the overall performance of the business.
-- Market Share by Region:
-  - Evaluate regional contributions to sales, highlighting core revenue-driving markets as well as underperforming regions but show potential investment opportunities.
-- Marketing Channels Effectiveness:
-  - Evaluate the effectiveness of the business's marketing strategies by analyzing customer acquisition across different channels and identifying which channels contribute most to sales.
-
-**Research Question:**
-
-How do sales performance and marketing effectiveness vary by year, product, region, and channel, and what factors drive changes in revenue and order volume over time?
+<ul>
+  <li>
+    <strong>General Sales Trends:</strong>
+    <ul>
+      <li>Analyze overall performance using key metrics such as total revenue, order volume, and average order value (AOV) to understand demand patterns and year-over-year changes.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Product Performance:</strong>
+    <ul>
+      <li>Identify top products that contribute the most to the total revenue and assess their relative impacts on the overall performance of the business.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Market Share by Region:</strong>
+    <ul>
+      <li>Evaluate regional contributions to sales, highlighting core revenue-driving markets as well as underperforming regions but show potential investment opportunities.</li>
+    </ul>
+  </li>
+      
+  <li>
+    <strong>Market Share by Region:</strong>
+    <ul>
+      <li>Evaluate the effectiveness of the business's marketing strategies by analyzing customer acquisition across different channels and identifying which channels contribute most to sales.</li>
+  </li>
+</ul>
 
 <h2 align="center"> Data Overview </h2>
 
@@ -47,29 +65,43 @@ How do sales performance and marketing effectiveness vary by year, product, regi
 
 <h2 align="center"> Executive Summary </h2>
 
-This analysis reveals several key patterns in sales and marketing performance:
+<p>This analysis reveals several key patterns in sales and marketing performance:</p>
 
-1. **Sales Growth Accelerated Sharply in 2020, Followed by Early Signs of Decline**
-
-   - Total revenue increased significantly in 2020, reaching $4.07M, representing a 164% year-over-year (YoY) growth.
-   - The strongest performance occurred between September and December 2020, with December marking the peak month ($559K).
-   - Despite strong annual growth, sales exhibited notable volatility, including a sharp decline in October 2020 and a continued downward trend in early 2021, suggesting that growth momentum may not be sustained without intervention.
+<ol>
+  <li>
+    <strong>Sales Growth Accelerated Sharply in 2020, Followed by Early Signs of Decline</strong>
+    <ul>
+      <li>Total revenue increased significantly in 2020, reaching $4.07M, representing a 164% year-over-year (YoY) growth.</li>
+      <li>The strongest performance occurred between September and December 2020, with December marking the peak month ($559K).</li>
+      <li>Despite strong annual growth, sales exhibited notable volatility, including a sharp decline in October 2020 and a continued downward trend in early 2021, suggesting that growth momentum may not be sustained without intervention.</li>
+    </ul>
+  </li>
   
-2. **Revenue Is Highly Concentrated Among Top Products:**
-
-   - A small group of products consistently generated the majority of revenue across both years.
-   - This concentration reflects strong product–market fit for core offerings but also introduces dependency risk, as overall performance is heavily influenced by a limited product portfolio.
-
-3. **Sales Trends Are Strongly Influenced by Global and Seasonal Factors:**
-
-   - All regions and products experienced a pronounced decline in late 2019, followed by a sharp increase throughout 2020.
-   - This synchronized pattern across markets suggests a macro-level impact, potentially related to shifts in consumer behavior during the COVID-19 period.
-   - Seasonal effects are evident, with recurring peaks in September and December in both years, likely driven by promotional cycles and holiday demand, while October consistently underperformed across years.
-
-4. **Marketing Channel Effectiveness Does Not Vary:**
-
-   - Direct traffic dominates sales performance, contributing approximately 70–80% of total revenue.
-   - Other channels (email, social media, affiliate) contribute minimally, indicating inefficient channel diversification and potential underinvestment or ineffective execution outside the direct channel.
+  <li>
+    <strong>Revenue Is Highly Concentrated Among Top Products:</strong>
+    <ul>
+      <li>A small group of products consistently generated the majority of revenue across both years.</li>
+      <li>This concentration reflects strong product–market fit for core offerings but also introduces dependency risk, as overall performance is heavily influenced by a limited product portfolio.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Sales Trends Are Strongly Influenced by Global and Seasonal Factors:</strong>
+    <ul>
+      <li>All regions and products experienced a pronounced decline in late 2019, followed by a sharp increase throughout 2020.</li>
+      <li>This synchronized pattern across markets suggests a macro-level impact, potentially related to shifts in consumer behavior during the COVID-19 period.</li>
+      <li>Seasonal effects are evident, with recurring peaks in September and December in both years, likely driven by promotional cycles and holiday demand, while October consistently underperformed across years.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Marketing Channel Effectiveness Does Not Vary:</strong>
+    <ul>
+      <li>Direct traffic dominates sales performance, contributing approximately 80–90% of total revenue.</li>
+      <li>Other channels (email, social media, affiliate) contribute minimally, indicating inefficient channel diversification and potential underinvestment or ineffective execution outside the direct channel.</li>
+    </ul>
+  </li>
+</ol>
 
 <h2 align="center"> Insight Deep Dive & Visualizations </h2>
 
