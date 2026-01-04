@@ -246,6 +246,10 @@
   <li>Among non-direct channels, email shows modest growth potential, indicating opportunities for strategic experimentation and optimization to shift away the revenue concentration on direct traffic.</li>
 </ul>
 
+<div align="center">
+  <img with="1000" height="550" src="./figures/marketing_revenue_3.png">
+</div>
+
 <h2 align="center"> Conclusion </h2>
 
 <h3>Key Takeaways:</h3>
