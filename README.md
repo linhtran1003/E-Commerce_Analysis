@@ -105,18 +105,21 @@
 
 <h2 align="center"> Insight Deep Dive & Visualizations </h2>
 
-### 💰 Sales Trends
+<h3>💰 Sales Trends</h3> 
+<div align="center">
+  <img with="1000" height="550" src="./figures/sales_trends.png">
+</div>
 
-<img with="800" src="./figures/sales_trends.png">
+<ul>
+  <li>In 2019, monthly sales remained relatively stable throughout the year, with the strongest performance occurring during September - December period, which generated approximately $637K of the $1.54M annual revenue (around 42% of total sales)</li>
+  <li>Despite this strong accomplishment at the end of the year, sales experience a sharp 39% decline in January 2020 (from $180.8K to $109.9K), indicating a significant post-holiday slowdown and an early sign of volatility entering the new year.</li>
+  <li>Sales revenue rebounded rapidly in the next few months of 2020. By April 2020, revenue increased by over 220% compared to January 2020 (from $109K to $351K) and nearly 190% compared to April 2019, indicating a pronounced year-over-year surge and a clear deviation from prior patterns.</li>
+  <li>Despite this surge, monthly sales patterns reveal strong month-to-month volatility, with recurring declines before and after seasonal peaks. This pattern highlights that customer demand was heavily concentrated around specific promotional or holiday-driven periods rathern than sustained throughout the year.</li>
+  <li>Entering 2021, the revenue sharply declined again, with a 47% drop in January, followed by further decline in February, suggests potential demand saturation or weakening consumer engagement.</li>
+  <li><strong>Overall:</strong> Although the difference in total revenue of the 2 seasons are susbtantial, sales followed a consistent seasonal pattern: peak in September and December, followed by decline in adjacent months. This essentially indicates that revenue performance is heavily dependent on late-year seasonal events and promotions, reinforcing the need for adjusting strategies that stabilize general demand outside peak periods.</li>
+</ul>
 
-- In 2019, monthly sales remained relatively stable throughout the year, with the strongest performance occurring during September - December period, which generated approximately $637K of the $1.54M annual revenue (around 42% of total sales)
-- Despite this strong accomplishment at the end of the year, sales experience a sharp 39% decline in January 2020 (from $180.8K to $109.9K), indicating a significant post-holiday slowdown and an early sign of volatility entering the new year.
-- Sales revenue rebounded rapidly in the next few months of 2020. By April 2020, revenue increased by over 220% compared to January 2020 (from $109K to $351K) and nearly 190% compared to April 2019, indicating a pronounced year-over-year surge and a clear deviation from prior patterns.
-- Despite this surge, monthly sales patterns reveal strong month-to-month volatility, with recurring declines before and after seasonal peaks. This pattern highlights that customer demand was heavily concentrated around specific promotional or holiday-driven periods rathern than sustained throughout the year.
-- Entering 2021, the revenue sharply declined again, with a 47% drop in January, followed by further decline in February, suggests potential demand saturation or weakening consumer engagement.
-- **Overall:** Although the difference in total revenue of the 2 seasons are susbtantial, sales followed a consistent seasonal pattern: peak in September and December, followed by decline in adjacent months. This essentially indicates that revenue performance is heavily dependent on late-year seasonal events and promotions, reinforcing the need for adjusting strategies that stabilize general demand outside peak periods.
-
-### 📊 Average Order Value (AOV) and Number of Orders
+<h3> 📊 Average Order Value (AOV) and Number of Orders </h3>
 <h4 align="center">Revenue fluctuations are driven primarily by changes in order volume</h4>
 
 <table align="center">
@@ -130,29 +133,49 @@
     </tr>
 </table>
 
-- In 2020, Average Order Value (AOV) increased significantly compared to the previous year, with a notable 36% spike in January 2020. This increase coincided with the outbreak of COVID-19, which likely influenced changes in consumer purchasing behavior within the e-commerce market.
-- However, higher AOV did not consistently translate into higher revenue. In fact, revenue in January 2020 reach one of its lowest level across the analyzed period, indicating that increasing the AOV alone was insufficient to complement the declines in customer demand.
-- Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
-  - In January 2020, the number of orders declined by approxiamtely 55%, directly leading to the sharp revenue drop despite having high AOV.
-  - Order volume recovered throughout 2020 and peaked in December with 1,671 orders, but also experienced notable declines in October 2020 and again in early 2021.
-- **Overall:** While AOV exhibited considerable volatility over the analyzed period, order volume was more likely the main driver of the revenue. This emphasizes the importance of sustaining the consistent demand rather than solely focus on short-term increases in order value.
+<ul>
+  <li>In 2020, Average Order Value (AOV) increased significantly compared to the previous year, with a notable 36% spike in January 2020. This increase coincided with the outbreak of COVID-19, which likely influenced changes in consumer purchasing behavior within the e-commerce market.</li>
+  <li>However, higher AOV did not consistently translate into higher revenue. In fact, revenue in January 2020 reach one of its lowest level across the analyzed period, indicating that increasing the AOV alone was insufficient to complement the declines in customer demand.</li>
+  <li>
+    Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
+    <ul>
+      <li>In January 2020, the number of orders declined by approxiamtely 55%, directly leading to the sharp revenue drop despite having high AOV.</li>
+      <li>Order volume recovered throughout 2020 and peaked in December with 1,671 orders, but also experienced notable declines in October 2020 and again in early 2021.</li>
+    </ul>
+  </li>
+  <li><strong>Overall:</strong> While AOV exhibited considerable volatility over the analyzed period, order volume was more likely the main driver of the revenue. This emphasizes the importance of sustaining the consistent demand rather than solely focus on short-term increases in order value.</li>
+</ul>
 
-### 🎮 Product Performance by Year
+<h3>🎮 Product Performance by Year</h3>
+<div align="center">
+  <img with="1000" height="550" src="./figures/product_performance.png">
+</div>
 
-![Sales Trends](./figures/product_performance.png)
+<ul>
+  <li>
+    <strong>Revenue concentration:</strong>
+    <ul>
+      <li>Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. This indicates a strong demand for a narrow set of core products, while also exposing the business to significant concentration risk.</li>
+      <li>All remaining products show minimal or inconsistent sales activity, contributing negligibly to overall performance. Notably, the Gaming Headset exhibited persistently weak performance with no recorded sales in multiple months. This may reflect poor product-market fit, ineffective promotions, or potential gaps in sales tracking, and requires further investigation.</li>
+      <li>Seasonality is consistent across all top-performing products, with pronounced sales spikes in September and December. These peaks aligned with back-to-school promotion and holiday shopping periods, reinforcing the importance of seasonal demand in driving overall performance.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Product AOV:</strong>
+    <ul>
+      <li>Product-level AOV patterns vary across years. In 2019, AOV for Playstation and IdeaPad Gaming fluctuated considerably, while Nintendo Switch and Gaming Monitor maintained relatively stable AOV levels in both years. In 2020, AOV for Playstation and IdeaPad became more stable overall, though intermittent highs and lows persisted.</li>
+      <li>Sony Playstation consistently records the highest AOV, while the Gaming Monitor has a comparatively lower AOV among the top products. Despite this, the Gaming Monitor and Nintendo Switch jointly generated approximately $1.06M in revenue in 2019, demonstrating strong demand volume.</li>
+      <li>Sony Playstation, despite being a high-value item, experienced the most significant revenue growth, increasing from $260K in 2019 to $1.19M in 2020. However, the Gaming Monitor remained the top revenue driver in both years, despite its lower AOV.</li>
+    </ul>
+  </li>
 
-- **Revenue concentration:**
-  - Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. This indicates a strong demand for a narrow set of core products, while also exposing the business to significant concentration risk.
-  - All remaining products show minimal or inconsistent sales activity, contributing negligibly to overall performance. Notably, the Gaming Headset exhibited persistently weak performance with no recorded sales in multiple months. This may reflect poor product-market fit, ineffective promotions, or potential gaps in sales tracking, and requires further investigation.
-  - Seasonality is consistent across all top-performing products, with pronounced sales spikes in September and December. These peaks aligned with back-to-school promotion and holiday shopping periods, reinforcing the importance of seasonal demand in driving overall performance.
- 
-- **Product AOV:**
-  - Product-level AOV patterns vary across years. In 2019, AOV for Playstation and IdeaPad Gaming fluctuated considerably, while Nintendo Switch and Gaming Monitor maintained relatively stable AOV levels in both years. In 2020, AOV for Playstation and IdeaPad became more stable overall, though intermittent highs and lows persisted.
-  - Sony Playstation consistently records the highest AOV, while the Gaming Monitor has a comparatively lower AOV among the top products. Despite this, the Gaming Monitor and Nintendo Switch jointly generated approximately $1.06M in revenue in 2019, demonstrating strong demand volume.
-  - Sony Playstation, despite being a high-value item, experienced the most significant revenue growth, increasing from $260K in 2019 to $1.19M in 2020. However, the Gaming Monitor remained the top revenue driver in both years, despite its lower AOV.
-  - **Overall:** This contrast highlights a key insight: consistent order volume is more critical to sustained revenue performance than high AOV alone. The Gaming Monitor’s stable revenue leadership suggests that frequent purchasing can outperform higher-priced but less consistently ordered products.
+  <li>
+    <strong>Overall:</strong> This contrast highlights a key insight: consistent order volume is more critical to sustained revenue performance than high AOV alone. The Gaming Monitor’s stable revenue leadership suggests that frequent purchasing can outperform higher-priced but less consistently ordered products.
+  </li>
+</ul>
 
-### 🌐 Market Share by Region
+<h3>🌐 Market Share by Region</h3>
 
 <table width="1000" align="center">
     <tr align="center">
@@ -195,61 +218,98 @@
 
 **Overall:** While most regions showed improvement toward the end of 2020, Asia-Pacific was the only region to maintain continued growth into early 2021. Combine with a slight increase in its market share in 2020, this trend highlights Asia-Pacific as a potential emerging growth opportunity.
 
-### 📈 Marketing Channels Effectiveness
+<h3>📈 Marketing Channels Effectiveness</h3> 
 
-- Direct purchases aoverwhelmingly dominates the revenue, contributing approximately 79 - 89% of monthly sales and 84 - 85% annually, while all other marketing channels contribute marginally by comparison. Trends in direct-channel revenue closely mirror the trends of overall sales and order volume, indicating a strong dependence on customers who are already familiar with the brand and navigate directly to the website to complete their purchases.
-- This level of reliance on direct traffic is unusual for a typical e-commerce operation and suggests that customer acquisition through alternative marketing channels is either underutilized or ineffective. This disproportionate contribution from direct traffic also warrants a review of marketing attribution logic, as the observed imbalance may reflect limitations in channel tracking rather than true customer acquisiton behavior.
-- Among non-direct channels, email shows modest growth potential, indicating opportunities for strategic experimentation and optimization to shift away the revenue concentration on direct traffic.
+<ul>
+  <li>Direct purchases aoverwhelmingly dominates the revenue, contributing approximately 79 - 89% of monthly sales and 84 - 85% annually, while all other marketing channels contribute marginally by comparison. Trends in direct-channel revenue closely mirror the trends of overall sales and order volume, indicating a strong dependence on customers who are already familiar with the brand and navigate directly to the website to complete their purchases.</li>
+  <li>This level of reliance on direct traffic is unusual for a typical e-commerce operation and suggests that customer acquisition through alternative marketing channels is either underutilized or ineffective. This disproportionate contribution from direct traffic also warrants a review of marketing attribution logic, as the observed imbalance may reflect limitations in channel tracking rather than true customer acquisiton behavior.</li>
+  <li>Among non-direct channels, email shows modest growth potential, indicating opportunities for strategic experimentation and optimization to shift away the revenue concentration on direct traffic.</li>
+</ul>
 
 <h2 align="center"> Conclusion </h2>
 
-### Key Takeaways
+<h3>Key Takeaways:</h3>
 
-- Revenue growth in 2020 was strong but volatile, driven primarily by seasonal demand spikes rather than sustained month-to-month growth. Sales consistently peaked in September and December, followed by sharp declines before and after these periods.
-- Order volume rather than AOV is the primary driver of revenue performance. Although AVOV increased at several points, declines in orders count directly led to revenue downturns, indicating that demand consistency is more critical than basket size.
-- Revenue is highly concentrated across products and regions. A small number of core products generate the majority of sales, and North America accounts more than half of total revenue in both years, making overall performance is highly sensitive to these segments.
-- Regional sales trends are highly synchronized, especially in 2020, suggesting the influence of a global demand shock. However, Asia-Pacific stands out as the only region showing continued growth into early 2021, indicating emerging potential investment.
-- Regional demand patterns suggest both mature markets and emerging growth opportunities.
-- Marketing performance is heavily skewed toward direct traffic while other acquisition channels play minimal roles, highlighting an imbalanced marketing mix. 
+<ul>
+  <li>Revenue growth in 2020 was strong but volatile, driven primarily by seasonal demand spikes rather than sustained month-to-month growth. Sales consistently peaked in September and December, followed by sharp declines before and after these periods.</li>
+  <li>Order volume rather than AOV is the primary driver of revenue performance. Although AVOV increased at several points, declines in orders count directly led to revenue downturns, indicating that demand consistency is more critical than basket size.</li>
+  <li>Revenue is highly concentrated across products and regions. A small number of core products generate the majority of sales, and North America accounts more than half of total revenue in both years, making overall performance is highly sensitive to these segments.</li>
+  <li>Regional sales trends are highly synchronized, especially in 2020, suggesting the influence of a global demand shock. However, Asia-Pacific stands out as the only region showing continued growth into early 2021, indicating emerging potential investment.</li>
+  <li>Regional demand patterns suggest both mature markets and emerging growth opportunities.</li>
+  <li>Marketing performance is heavily skewed toward direct traffic while other acquisition channels play minimal roles, highlighting an imbalanced marketing mix. </li>
+</ul>
 
-### Business Implications
+<h3>Business Implications:</h3> 
 
-- The business's current model is highly dependent on seasonality, direct traffic, and a narrow set of products and regions, creating structural risks if customer demand patterns shift.
-- Heavy reliance on direct traffic limits the company's ability to scale efficiently and might indicate weaknesses in marketing attribution, channels diversification, and customer acquisition strategies.
-- Emerging growth signals in Asia-Pacific suggests that geographic diversification could reduce dependency on mature markets and build long-term resilience.
+<ul>
+  <li>The business's current model is highly dependent on seasonality, direct traffic, and a narrow set of products and regions, creating structural risks if customer demand patterns shift.</li>
+  <li>Heavy reliance on direct traffic limits the company's ability to scale efficiently and might indicate weaknesses in marketing attribution, channels diversification, and customer acquisition strategies.</li>
+  <li>Emerging growth signals in Asia-Pacific suggests that geographic diversification could reduce dependency on mature markets and build long-term resilience.</li>
+</ul>
 
 <h2 align="center"> Recommendations </h2>
 
-**1. Stabilize Demand Outside Peak Seasons:**
-  - Develop campaigns and promotions targeting historically weak months (Januay & October)
-  - Introduce initiatives such as bundled offers or limited-time incentives to boost customer demands
-
-**2. Prioritize Consistent Demand Growth:**
-  - Focus marketing and product strategies on increasing purchase frequency instead of solely relying on higher AOV
-  - Optimize conversion funnel and adjust pricing strategies if needed to encourage consistent purchase behavior
-
-**3. Reduce Revenue Concentration Risks:** 
-  - Reassess underperforming products and consider discontinuation or repositioning
-  - Research and explore opportunities to expand beyondd top-performing products
-
-**4. Diversify Marketing Channels:**
-  - Expand and optimize email marketing, which shows potential growth
-  - Experiment with social media and affeliate strategies to improve customer discovery as these 2 channels might help reach a broader group of customers.
-
-**5. Invest in Potential Regions:**
-  - Use regional insights to guide expansion and localization strategies
+<ol>
+  <li>
+    <strong>Stabilize Demand Outside Peak Seasons:</strong>
+    <ul>
+      <li>Develop campaigns and promotions targeting historically weak months (Januay & October)</li>
+      <li>Introduce initiatives such as bundled offers or limited-time incentives to boost customer demands</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Prioritize Consistent Demand Growth:</strong>
+    <ul>
+      <li>Focus marketing and product strategies on increasing purchase frequency instead of solely relying on higher AOV</li>
+      <li>Optimize conversion funnel and adjust pricing strategies if needed to encourage consistent purchase behavior</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Reduce Revenue Concentration Risks:</strong>
+    <ul>
+      <li>Reassess underperforming products and consider discontinuation or repositioning</li>
+      <li>Research and explore opportunities to expand beyondd top-performing products</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Diversify Marketing Channels:</strong>
+    <ul>
+      <li>Expand and optimize email marketing, which shows potential growth</li>
+      <li>Experiment with social media and affeliate strategies to improve customer discovery as these 2 channels might help reach a broader group of customers.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Invest in Potential Regions:</strong>
+    <ul>
+      <li>Use regional insights to guide expansion and localization strategies</li>
+    </ul>
+  </li>
+  
+</ol>
 
 <h2 align="center"> Limitations & Potential Improvements </h2>
 
-**Limitations:**
+<ul>
+  <li>
+    <strong>Limitations:</strong>
+    <ul>
+      <li>Marketing spending data is not available (ROI analysis not possible)</li>
+      <li>Cost data is not avaialble to evaluate profit</li>
+      <li>Lack real-time feedback and guidance from stakeholders to provide clearer insights and recommendations</li>
+    </ul>
+  </li>
 
-- Marketing spending data is not available (ROI analysis not possible)
-- Cost data is not avaialble to evaluate profit
-- Lack real-time feedback and guidance from stakeholders to provide clearer insights and recommendations
-
-**Future Improvements:**
-
-- Integrating marketing cost to evaluate ROI
-- Performing customer cohort and retention analysis
-- Including profitability & margin trends (if available)
-- Building simple predictive models for sales forecasting
+  <li>
+    <strong>Future Improvements:</strong>
+    <ul>
+      <li>Integrating marketing cost to evaluate ROI</li>
+      <li>Performing customer cohort and retention analysis</li>
+      <li>Including profitability & margin trends (if available)</li>
+      <li>Building simple predictive models for sales forecasting</li>
+    </ul>
+  </li>
+</ul>
