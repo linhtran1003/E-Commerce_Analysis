@@ -228,6 +228,18 @@
 
 <h3>📈 Marketing Channels Effectiveness</h3> 
 
+<table width="1000" align="center">
+    <tr align="center">
+      <td>
+        <img src="./figures/marketing_revenue_1.png">
+      </td>
+      <td>
+        <img src="./figures/marketing_revenue_2.png">
+      </td>
+    </tr>
+</table>
+
+
 <ul>
   <li>Direct purchases aoverwhelmingly dominates the revenue, contributing approximately 79 - 89% of monthly sales and 84 - 85% annually, while all other marketing channels contribute marginally by comparison. Trends in direct-channel revenue closely mirror the trends of overall sales and order volume, indicating a strong dependence on customers who are already familiar with the brand and navigate directly to the website to complete their purchases.</li>
   <li>This level of reliance on direct traffic is unusual for a typical e-commerce operation and suggests that customer acquisition through alternative marketing channels is either underutilized or ineffective. This disproportionate contribution from direct traffic also warrants a review of marketing attribution logic, as the observed imbalance may reflect limitations in channel tracking rather than true customer acquisiton behavior.</li>
