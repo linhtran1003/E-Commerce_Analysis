@@ -67,7 +67,7 @@
 
 <p>This analysis reveals several key patterns in sales and marketing performance:</p>
 
-<ol>
+<ol type="1">
   <li>
     <strong>Sales Growth Accelerated Sharply in 2020, Followed by Early Signs of Decline</strong>
     <ul>
@@ -194,7 +194,7 @@
     </tr>
 </table>
 
-<ol>
+<ol type="1">
   <li><strong>Revenue Share by Region:</strong></li>
   <ul>
     <li>
@@ -217,6 +217,8 @@
     <li>While in 2020, all regions exhibited highly aligned sales behavior. Each experienced with a sharp decline in early 2020, followed by a strong recovery and peak performance primarily in September and December, although with increased volatility in the latter half of the year. This consistent pattern across regions supports the presence of a global demand shock, likely associated with the COVID-19 pandemic.</li>
   </ul>
 </ol>
+
+<br>
 
 <div align="center">
   <img with="1000" height="550" src="./figures/regional_revenue_3.png">
