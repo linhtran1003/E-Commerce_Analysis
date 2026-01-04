@@ -147,10 +147,16 @@
 </ul>
 
 <h3>🎮 Product Performance by Year</h3>
-<div align="center">
-  <img with="1000" height="550" src="./figures/product_performance.png">
-</div>
-
+<table align="center">
+    <tr align="center">
+      <td>
+        <img with="1000" height="600" src="./figures/product_performance.png">
+      </td>
+      <td>
+        <img with="1000" height="600" src="./figures/product_aov.png">
+      </td>
+    </tr>
+</table>
 <ul>
   <li>
     <strong>Revenue concentration:</strong>
