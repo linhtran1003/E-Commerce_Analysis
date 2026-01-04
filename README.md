@@ -121,6 +121,20 @@ This analysis reveals several key patterns in sales and marketing performance:
 
 ### 🌐 Market Share by Region
 
+<table align="center">
+    <tr align="center">
+      <td>
+        <img src="./figures/regional_revenue_3.png">
+      </td>
+      <td>
+        <img src="./figures/regional_revenue.png">
+      </td>
+      <td>
+        <img src="./figures/regional_revenue_2.png">
+      </td>
+    </tr>
+</table>
+
 - North America consistently dominates revenue:
   - It accounts for over 50% of total sales in both year and serves as the primary revenue driver across all products.
   - Revenue in this region increased from $832.7K in 2019 to $2.12M in 2020, representing a 155% year-over-year (YoY) growth, reinforcing North America's central role in overall business performance, but also highlighting the risk of over-reliance on a specific region.
