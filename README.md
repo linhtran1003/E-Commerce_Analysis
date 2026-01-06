@@ -186,10 +186,10 @@
 <table width="1000" align="center">
     <tr align="center">
       <td>
-        <img src="./figures/regional_revenue.png">
+        <img with="1000" height="550" src="./figures/regional_revenue.png">
       </td>
       <td>
-        <img src="./figures/regional_revenue_2.png">
+        <img with="1000" height="550" src="./figures/regional_revenue_2.png">
       </td>
     </tr>
 </table>
@@ -239,12 +239,13 @@
     </tr>
 </table>
 
-
 <ul>
   <li>Direct purchases aoverwhelmingly dominates the revenue, contributing approximately 79 - 89% of monthly sales and 84 - 85% annually, while all other marketing channels contribute marginally by comparison. Trends in direct-channel revenue closely mirror the trends of overall sales and order volume, indicating a strong dependence on customers who are already familiar with the brand and navigate directly to the website to complete their purchases.</li>
   <li>This level of reliance on direct traffic is unusual for a typical e-commerce operation and suggests that customer acquisition through alternative marketing channels is either underutilized or ineffective. This disproportionate contribution from direct traffic also warrants a review of marketing attribution logic, as the observed imbalance may reflect limitations in channel tracking rather than true customer acquisiton behavior.</li>
   <li>Among non-direct channels, email shows modest growth potential, indicating opportunities for strategic experimentation and optimization to shift away the revenue concentration on direct traffic.</li>
 </ul>
+
+<br>
 
 <div align="center">
   <img with="1000" height="550" src="./figures/marketing_revenue_3.png">
