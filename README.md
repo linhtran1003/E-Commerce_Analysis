@@ -125,10 +125,10 @@
 <table align="center">
     <tr align="center">
       <td>
-        <img src="./figures/aov.png">
+        <img with="1000" height="550" src="./figures/aov.png">
       </td>
       <td>
-        <img src="./figures/orders_count.png">
+        <img with="1000" height="550" src="./figures/orders_count.png">
       </td>
     </tr>
 </table>
@@ -231,10 +231,10 @@
 <table width="1000" align="center">
     <tr align="center">
       <td>
-        <img src="./figures/marketing_revenue_1.png">
+        <img with="1000" height="550" src="./figures/marketing_revenue_1.png">
       </td>
       <td>
-        <img src="./figures/marketing_revenue_2.png">
+        <img with="1000" height="550" src="./figures/marketing_revenue_2.png">
       </td>
     </tr>
 </table>
