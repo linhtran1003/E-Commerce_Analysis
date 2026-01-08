@@ -93,14 +93,6 @@
       <li>Seasonal effects are evident, with recurring peaks in September and December in both years, likely driven by promotional cycles and holiday demand, while October consistently underperformed across years.</li>
     </ul>
   </li>
-  
-  <li>
-    <strong>Marketing Channel Effectiveness Does Not Vary:</strong>
-    <ul>
-      <li>Direct traffic dominates sales performance, contributing approximately 80–90% of total revenue.</li>
-      <li>Other channels (email, social media, affiliate) contribute minimally, indicating inefficient channel diversification and potential underinvestment or ineffective execution outside the direct channel.</li>
-    </ul>
-  </li>
 </ol>
 
 <h2 align="center"> Insight Deep Dive & Visualizations </h2>
@@ -331,7 +323,7 @@
   <li>
     <strong>Future Improvements:</strong>
     <ul>
-      <li>Integrating marketing cost to evaluate ROI</li>
+      <li>Integrating marketing cost to evaluate ROI as well as build marketing dashboard for marketing performance overview</li>
       <li>Performing customer cohort and retention analysis</li>
       <li>Including profitability & margin trends (if available)</li>
       <li>Building simple predictive models for sales forecasting</li>
