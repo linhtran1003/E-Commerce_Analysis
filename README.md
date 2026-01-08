@@ -99,13 +99,6 @@
   </li>
 </ol>
 
-<br>
-
-<div align="center">
-  🔗
-  <a href="https://public.tableau.com/app/profile/linh.tran2640/viz/E-CommerceAnalysis_17678943938870/SalesDashboard?publish=yes">Link to the dashboard</a>
-</div>
-
 <h2 align="center" > Insight Deep Dive & Visualizations </h2>
 
 <h3>💰 Sales Trends</h3> 
