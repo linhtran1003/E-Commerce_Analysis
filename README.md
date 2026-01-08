@@ -65,6 +65,10 @@
 
 <h2 align="center"> Executive Summary </h2>
 
+<div align="center">
+  <img with="1000" height="550" src="./figures/sales_overview.png">
+</div>
+
 <p>This analysis reveals several key patterns in sales and marketing performance:</p>
 
 <ol type="1">
