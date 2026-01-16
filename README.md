@@ -7,10 +7,10 @@
 <h2 align="center"> Overview </h2>
 
 <p>
-  This report represents an in-depth analysis of a global e-commerce businesss specializing in popular gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021. The analysis will primarily focus on the 2019 - 2020 period to providing a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
+  This report represents an in-depth analysis of a global e-commerce businesss specializing in gaming products. The available data contains approximately 22,000 transactions from 18,000 customers, covering the period from January 2019 to February 2021. The analysis will primarily focus on the 2019 - 2020 period to provide a clearer view of business performance before and during a major shift in global consumer behavior. The objective is to examine sales trends, product performance, and marketing effectiveness in order to identify key revenue drivers, uncover growth opportunities, and understand changes in customer purchasing behavior over time.
 </p>
 
-<p>The key insights and recommendations of this analysis are structured around the following areas:</p>
+<p>The key insights and recommendations are structured around the following areas:</p>
 
 <ul>
   <li>
@@ -107,12 +107,12 @@
 </div>
 
 <ul>
-  <li>In 2019, monthly sales remained relatively stable throughout the year, with the strongest performance occurring during September - December period, which generated approximately $637K of the $1.54M annual revenue (around 42% of total sales)</li>
+  <li>In 2019, monthly sales remained relatively stable throughout the year, with the strongest performance occurring during September - December period, which generated approximately $637K out of the $1.54M annual revenue (around 42% of total sales)</li>
   <li>Despite this strong accomplishment at the end of the year, sales experience a sharp 39% decline in January 2020 (from $180.8K to $109.9K), indicating a significant post-holiday slowdown and an early sign of volatility entering the new year.</li>
   <li>Sales revenue rebounded rapidly in the next few months of 2020. By April 2020, revenue increased by over 220% compared to January 2020 (from $109K to $351K) and nearly 190% compared to April 2019, indicating a pronounced year-over-year surge and a clear deviation from prior patterns.</li>
-  <li>Despite this surge, monthly sales patterns reveal strong month-to-month volatility, with recurring declines before and after seasonal peaks. This pattern highlights that customer demand was heavily concentrated around specific promotional or holiday-driven periods rathern than sustained throughout the year.</li>
-  <li>Entering 2021, the revenue sharply declined again, with a 47% drop in January, followed by further decline in February, suggests potential demand saturation or weakening consumer engagement.</li>
-  <li><strong>Overall:</strong> Although the difference in total revenue of the 2 seasons are susbtantial, sales followed a consistent seasonal pattern: peak in September and December, followed by decline in adjacent months. This essentially indicates that revenue performance is heavily dependent on late-year seasonal events and promotions, reinforcing the need for adjusting strategies that stabilize general demand outside peak periods.</li>
+  <li>Despite this surge, monthly sales patterns reveal strong month-to-month volatility, with recurring declines before and after seasonal peaks. This pattern highlights that customer demand was heavily concentrated around specific promotional or holiday-driven periods rather than sustained throughout the year.</li>
+  <li>Entering 2021, the revenue sharply declined again, with a 47% drop in January, followed by further decline in February, suggesting potential demand saturation or weakening consumer engagement.</li>
+  <li><strong>Overall:</strong> Although the difference in total revenue of the 2 seasons are susbtantial, sales followed a consistent seasonal pattern: peak in September and December, and followed by decline in adjacent months. This essentially indicates that revenue performance is heavily dependent on late-year seasonal events and promotions, reinforcing the need for adjusting strategies that stabilize general demand outside peak periods.</li>
 </ul>
 
 <h3> 📊 Average Order Value (AOV) and Number of Orders </h3>
@@ -133,9 +133,9 @@
   <li>In 2020, Average Order Value (AOV) increased significantly compared to the previous year, with a notable 36% spike in January 2020. This increase coincided with the outbreak of COVID-19, which likely influenced changes in consumer purchasing behavior within the e-commerce market.</li>
   <li>However, higher AOV did not consistently translate into higher revenue. In fact, revenue in January 2020 reach one of its lowest level across the analyzed period, indicating that increasing the AOV alone was insufficient to complement the declines in customer demand.</li>
   <li>
-    Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV or price of the products.
+    Visualizing the number of orders proves that declines in order volume, rather than AOV, were the primary driver of revenue downturns. Order count and total revenue closely mirror each other across both years, emphasizing that decline in revenue primarily due to fewer orders rather than the fluctuation in AOV of the products.
     <ul>
-      <li>In January 2020, the number of orders declined by approxiamtely 55%, directly leading to the sharp revenue drop despite having high AOV.</li>
+      <li>In January 2020, the number of orders declined by approxiamtely 55%, directly leading to the sharp revenue drop despite having high AOV during this particular month.</li>
       <li>Order volume recovered throughout 2020 and peaked in December with 1,671 orders, but also experienced notable declines in October 2020 and again in early 2021.</li>
     </ul>
   </li>
@@ -157,8 +157,8 @@
   <li>
     <strong>Revenue concentration:</strong>
     <ul>
-      <li>Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. This indicates a strong demand for a narrow set of core products, while also exposing the business to significant concentration risk.</li>
-      <li>All remaining products show minimal or inconsistent sales activity, contributing negligibly to overall performance. Notably, the Gaming Headset exhibited persistently weak performance with no recorded sales in multiple months. This may reflect poor product-market fit, ineffective promotions, or potential gaps in sales tracking, and requires further investigation.</li>
+      <li>Revenue concentration is highly pronounced, with four products - 27in 4K Gaming Monitor, Nintendo Switch, Sony PlayStation 5 Bundle, and Lenovo IdeaPad Gaming 3 - accounting for approximately 97% of total revenue across both years. While this indicates a strong demand for a narrow set of core products, it also exposes the business to significant concentration risk.</li>
+      <li>All remaining products show minimal or inconsistent sales activity, contributing negligibly to overall performance. Notably, the Gaming Headset exhibited persistently weak performance with no recorded sales in multiple months. This may reflect poor product-market fit, ineffective promotions, or potential gaps in sales tracking, and requires further investigation with related team.</li>
       <li>Seasonality is consistent across all top-performing products, with pronounced sales spikes in September and December. These peaks aligned with back-to-school promotion and holiday shopping periods, reinforcing the importance of seasonal demand in driving overall performance.</li>
     </ul>
   </li>
